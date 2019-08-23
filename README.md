@@ -1,1 +1,1 @@
-# deep_learning
+# ANN and CNN Network, Face Detection, SOM Clustering
